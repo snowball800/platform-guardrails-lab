@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+# Secrets and keys
+*.pem
+*.key
+*-key.json
+.env
